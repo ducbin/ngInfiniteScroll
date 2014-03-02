@@ -1,7 +1,9 @@
 /* ng-infinite-scroll
     v1.0.0
     2014-03-02
-    edit by: ducbin
+    @author: BinaryMuse
+    edited by: ducbin
+    src: https://github.com/BinaryMuse/ngInfiniteScroll
     link: https://github.com/ducbin/ngInfiniteScroll
 */
 var mod;
